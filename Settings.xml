@@ -32,13 +32,13 @@
 </Cluster>
 <Cluster>
 <Name>Logging Configuration</Name>
-<NumElts>9</NumElts>
+<NumElts>10</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
-<Val>C:\Users\maxim\OneDrive\Documents\LabVIEW Data\Logged Data.tdms</Val>
+<Val>C:\Users\maxim\AppData\Local\Temp\LabVIEW</Val>
 </Path>
 <Refnum>
-<Name>TDMS File Reference</Name>
+<Name>DAQ Log TDMS File Reference</Name>
 <RefKind>TDMS File</RefKind>
 <Val>0x00000000</Val>
 </Refnum>
@@ -48,11 +48,11 @@
 </U32>
 <U32>
 <Name>Trigger - Time</Name>
-<Val>1</Val>
+<Val>0</Val>
 </U32>
 <DBL>
 <Name>Trigger - Threshold</Name>
-<Val>2.00000000000000</Val>
+<Val>0.00000000000000</Val>
 </DBL>
 <U32>
 <Name>Trigger - Channel</Name>
@@ -60,16 +60,20 @@
 </U32>
 <Boolean>
 <Name>Enable Time Trigger</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 <Boolean>
 <Name>Enable Threshold Trigger</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 <Boolean>
 <Name>Always Log</Name>
 <Val>0</Val>
 </Boolean>
+<String>
+<Name>Session Name</Name>
+<Val>2020_03_06_10_05_55</Val>
+</String>
 </Cluster>
 </Cluster>
 </LVData>
