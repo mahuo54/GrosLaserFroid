@@ -21,7 +21,7 @@
 </DBL>
 <DBL>
 <Name>Sample Rate</Name>
-<Val>100.00000000000000</Val>
+<Val>500.00000000000000</Val>
 </DBL>
 <Refnum>
 <Name>DAQmx Task</Name>
@@ -32,7 +32,7 @@
 </Cluster>
 <Cluster>
 <Name>Logging Configuration</Name>
-<NumElts>10</NumElts>
+<NumElts>12</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
 <Val>C:\Users\maxim\AppData\Local\Temp\LabVIEW</Val>
@@ -44,7 +44,7 @@
 </Refnum>
 <U32>
 <Name>Samples to Save</Name>
-<Val>500</Val>
+<Val>200</Val>
 </U32>
 <U32>
 <Name>Trigger - Time</Name>
@@ -56,7 +56,7 @@
 </DBL>
 <U32>
 <Name>Trigger - Channel</Name>
-<Val>0</Val>
+<Val>50</Val>
 </U32>
 <Boolean>
 <Name>Enable Time Trigger</Name>
@@ -72,8 +72,16 @@
 </Boolean>
 <String>
 <Name>Session Name</Name>
-<Val>2020_03_07_09_49_01</Val>
+<Val>2020_03_07_17_14_36</Val>
 </String>
+<I32>
+<Name>Estimate Batch Size</Name>
+<Val>50</Val>
+</I32>
+<Path>
+<Name>Estimate Filepath</Name>
+<Val></Val>
+</Path>
 </Cluster>
 </Cluster>
 </LVData>
