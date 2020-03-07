@@ -68,11 +68,11 @@
 </Boolean>
 <Boolean>
 <Name>Always Log</Name>
-<Val>0</Val>
+<Val>1</Val>
 </Boolean>
 <String>
 <Name>Session Name</Name>
-<Val>2020_03_06_10_05_55</Val>
+<Val>2020_03_07_09_49_01</Val>
 </String>
 </Cluster>
 </Cluster>
