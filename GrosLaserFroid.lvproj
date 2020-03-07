@@ -40,8 +40,6 @@
 		<Item Name="Settings.xml" Type="Document" URL="../Settings.xml"/>
 		<Item Name="Data Analysis Loop.vi" Type="VI" URL="../Data Analysis/Data Analysis Loop.vi"/>
 		<Item Name="EstimateCluster.ctl" Type="VI" URL="../Data Analysis/EstimateCluster.ctl"/>
-		<Item Name="Components Message Queues.ctl" Type="VI" URL="../controls/Components Message Queues.ctl"/>
-		<Item Name="Enqueue Message (All Components).vi" Type="VI" URL="../support/Message Queue/Enqueue Message (All Components).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
