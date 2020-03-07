@@ -13,6 +13,8 @@
 		<Item Name="Enqueue Message (Array).vi" Type="VI" URL="../Enqueue Message (Array).vi"/>
 		<Item Name="All Message Queues.ctl" Type="VI" URL="../All Message Queues.ctl"/>
 		<Item Name="Message Cluster.ctl" Type="VI" URL="../Message Cluster.ctl"/>
+		<Item Name="Components Message Queues.ctl" Type="VI" URL="../../../controls/Components Message Queues.ctl"/>
+		<Item Name="Enqueue Message (All Components).vi" Type="VI" URL="../Enqueue Message (All Components).vi"/>
 	</Item>
 	<Item Name="Create All Message Queues.vi" Type="VI" URL="../Create All Message Queues.vi"/>
 	<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Obtain Message Queue.vi"/>
