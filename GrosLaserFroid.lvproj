@@ -31,6 +31,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
+			<Item Name="UI Display.ctl" Type="VI" URL="../controls/UI Display.ctl"/>
 		</Item>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
