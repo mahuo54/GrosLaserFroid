@@ -32,6 +32,10 @@
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
 			<Item Name="UI Display.ctl" Type="VI" URL="../controls/UI Display.ctl"/>
+			<Item Name="Components State.ctl" Type="VI" URL="../controls/Components State.ctl"/>
+			<Item Name="State Type.ctl" Type="VI" URL="../controls/State Type.ctl"/>
+			<Item Name="EstimateCluster.ctl" Type="VI" URL="../Data Analysis/EstimateCluster.ctl"/>
+			<Item Name="Component Type.ctl" Type="VI" URL="../controls/Component Type.ctl"/>
 		</Item>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
@@ -39,10 +43,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Settings.xml" Type="Document" URL="../Settings.xml"/>
 		<Item Name="Data Analysis Loop.vi" Type="VI" URL="../Data Analysis/Data Analysis Loop.vi"/>
-		<Item Name="EstimateCluster.ctl" Type="VI" URL="../Data Analysis/EstimateCluster.ctl"/>
 		<Item Name="Data Display.vi" Type="VI" URL="../Data Display.vi"/>
-		<Item Name="UI and Components State.ctl" Type="VI" URL="../controls/UI and Components State.ctl"/>
-		<Item Name="Components State Type.ctl" Type="VI" URL="../controls/Components State Type.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
