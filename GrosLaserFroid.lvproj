@@ -44,6 +44,9 @@
 		<Item Name="Settings.xml" Type="Document" URL="../Settings.xml"/>
 		<Item Name="Data Analysis Loop.vi" Type="VI" URL="../Data Analysis/Data Analysis Loop.vi"/>
 		<Item Name="Data Display.vi" Type="VI" URL="../Data Display.vi"/>
+		<Item Name="UI Actions.ctl" Type="VI" URL="../controls/UI Actions.ctl"/>
+		<Item Name="UI Info Session.ctl" Type="VI" URL="../controls/UI Info Session.ctl"/>
+		<Item Name="Session Info.ctl" Type="VI" URL="../Settings/Session Info.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -295,6 +298,8 @@
 				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
 				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
+				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
