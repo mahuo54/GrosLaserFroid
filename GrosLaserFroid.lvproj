@@ -47,6 +47,7 @@
 		<Item Name="UI Actions.ctl" Type="VI" URL="../controls/UI Actions.ctl"/>
 		<Item Name="UI Info Session.ctl" Type="VI" URL="../controls/UI Info Session.ctl"/>
 		<Item Name="Session Info.ctl" Type="VI" URL="../Settings/Session Info.ctl"/>
+		<Item Name="prediction_puissance.vi" Type="VI" URL="../prediction_puissance.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
