@@ -6,10 +6,10 @@
 <NumElts>2</NumElts>
 <Cluster>
 <Name>Hardware Configuration</Name>
-<NumElts>5</NumElts>
+<NumElts>7</NumElts>
 <DAQChannel>
 <Name>DAQmx Channel</Name>
-<Val>Dev1/ai0</Val>
+<Val>Dev1/ai0:5</Val>
 </DAQChannel>
 <DBL>
 <Name>Max Input</Name>
@@ -21,7 +21,7 @@
 </DBL>
 <DBL>
 <Name>Sample Rate</Name>
-<Val>500.00000000000000</Val>
+<Val>10.00000000000000</Val>
 </DBL>
 <Refnum>
 <Name>DAQmx Task</Name>
@@ -29,6 +29,16 @@
 <RefType>NIDAQ</RefType>
 <Val></Val>
 </Refnum>
+<Path>
+<Name>Fichier de simulation</Name>
+<Val>C:\Users\maxim\OneDrive\Documents\LabVIEW Data\GrosLaserFroid\600nm.txt</Val>
+</Path>
+<EW>
+<Name>Source</Name>
+<Choice>Simulation</Choice>
+<Choice>DAQ</Choice>
+<Val>0</Val>
+</EW>
 </Cluster>
 <Cluster>
 <Name>Logging Configuration</Name>
@@ -72,11 +82,11 @@
 </Boolean>
 <String>
 <Name>Session Name</Name>
-<Val>2020_03_07_17_47_48</Val>
+<Val>2020_04_16_16_07_40</Val>
 </String>
 <I32>
 <Name>Estimate Batch Size</Name>
-<Val>0</Val>
+<Val>50</Val>
 </I32>
 <Path>
 <Name>Estimate Filepath</Name>
