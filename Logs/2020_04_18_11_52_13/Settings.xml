@@ -2,7 +2,7 @@
 <LVData xmlns="http://www.ni.com/LVData">
 <Version>19.0.1f1</Version>
 <Cluster>
-<Name>Settings in</Name>
+<Name>Settings</Name>
 <NumElts>2</NumElts>
 <Cluster>
 <Name>Hardware Configuration</Name>
@@ -82,7 +82,7 @@
 </Boolean>
 <String>
 <Name>Session Name</Name>
-<Val>2020_04_18_11_35_59</Val>
+<Val>2020_04_18_11_52_13</Val>
 </String>
 <I32>
 <Name>Estimate Batch Size</Name>
