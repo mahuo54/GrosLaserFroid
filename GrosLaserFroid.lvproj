@@ -48,6 +48,7 @@
 		<Item Name="UI Info Session.ctl" Type="VI" URL="../controls/UI Info Session.ctl"/>
 		<Item Name="Session Info.ctl" Type="VI" URL="../Settings/Session Info.ctl"/>
 		<Item Name="prediction_puissance.vi" Type="VI" URL="../prediction_puissance.vi"/>
+		<Item Name="PropertiesDataAnalysis.ctl" Type="VI" URL="../Data Analysis/PropertiesDataAnalysis.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -315,6 +316,7 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="matscript.dll" Type="Document"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging (NI-DAQmx)" Type="EXE">
