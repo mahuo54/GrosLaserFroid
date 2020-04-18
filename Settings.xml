@@ -82,11 +82,11 @@
 </Boolean>
 <String>
 <Name>Session Name</Name>
-<Val>2020_04_16_16_07_40</Val>
+<Val>2020_04_18_07_17_52</Val>
 </String>
 <I32>
 <Name>Estimate Batch Size</Name>
-<Val>50</Val>
+<Val>0</Val>
 </I32>
 <Path>
 <Name>Estimate Filepath</Name>
