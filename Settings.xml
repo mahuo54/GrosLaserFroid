@@ -37,7 +37,7 @@
 <Name>Source</Name>
 <Choice>Simulation</Choice>
 <Choice>DAQ</Choice>
-<Val>1</Val>
+<Val>0</Val>
 </EW>
 </Cluster>
 <Cluster>
@@ -82,7 +82,7 @@
 </Boolean>
 <String>
 <Name>Session Name</Name>
-<Val>2020_04_18_11_35_59</Val>
+<Val>2020_04_18_12_17_36</Val>
 </String>
 <I32>
 <Name>Estimate Batch Size</Name>
