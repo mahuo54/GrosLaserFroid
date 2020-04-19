@@ -31,7 +31,7 @@
 </Refnum>
 <Path>
 <Name>Fichier de simulation</Name>
-<Val>C:\Users\maxim\OneDrive\Documents\LabVIEW Data\GrosLaserFroid\600nm.txt</Val>
+<Val>C:\Users\maxim\OneDrive\Documents\LabVIEW Data\GrosLaserFroid\test_2.5_5_7.5_10.txt</Val>
 </Path>
 <EW>
 <Name>Source</Name>
@@ -82,7 +82,7 @@
 </Boolean>
 <String>
 <Name>Session Name</Name>
-<Val>2020_04_19_11_50_31</Val>
+<Val>2020_04_19_12_22_52</Val>
 </String>
 <I32>
 <Name>Estimate Batch Size</Name>
