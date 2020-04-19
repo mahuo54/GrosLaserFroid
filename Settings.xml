@@ -31,7 +31,7 @@
 </Refnum>
 <Path>
 <Name>Fichier de simulation</Name>
-<Val>C:\Users\maxim\OneDrive\Documents\LabVIEW Data\GrosLaserFroid\600nm.txt</Val>
+<Val>C:\Users\maxim\OneDrive\Documents\LabVIEW Data\GrosLaserFroid\2400nm.txt</Val>
 </Path>
 <EW>
 <Name>Source</Name>
@@ -66,7 +66,7 @@
 </DBL>
 <U32>
 <Name>Trigger - Channel</Name>
-<Val>0</Val>
+<Val>50</Val>
 </U32>
 <Boolean>
 <Name>Enable Time Trigger</Name>
@@ -82,11 +82,11 @@
 </Boolean>
 <String>
 <Name>Session Name</Name>
-<Val>2020_04_18_12_17_36</Val>
+<Val>2020_04_19_09_31_07</Val>
 </String>
 <I32>
 <Name>Estimate Batch Size</Name>
-<Val>0</Val>
+<Val>50</Val>
 </I32>
 <Path>
 <Name>Estimate Filepath</Name>
